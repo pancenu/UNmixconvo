@@ -5,8 +5,8 @@
  
 
 CONCURSO DE MÉRITOS MIXTO PARA PROVEER CARGOS DE CONVOCATORIA No
-CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 40601- 01
-UNIVERSIDAD COLOMBIA 2025 Tipo: ABIERTO
+CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 51203- 06
+UNIVERSIDAD COLOMBIA 2025 Tipo: ASCENSO
 NACIONAL De conformidad con lo consagrado en el Acuerdo 067 de 1996 del Consejo 29 de abril de 2025
 DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Resolución
 07 de 2024 de Rectoría y sus modificatorias
@@ -18,26 +18,24 @@ DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Re
 IDENTIFICACIÓN DEL EMPLEO A PROVEER
 
 Asignación Básica Mensual:
-$ 3.761.912 (Vigencia 2024)
+$ 3.707.294 (Vigencia 2024)
 
  
 
 Denominación:
-Técnico
+Auxiliar
 Administrativo
 Sede: MANIZALES
 Ciudad de Trabajo: MANIZALES
-Nota: Al momento de la inscripción el Dependencia (Planta global): Sección de Registro y Matrícula
+Nota: Al momento de la inscripción el
 aspirante deberá indicar la ciudad de
 aplicación de las pruebas.
 
 Nivel:
 
-TÉCNICO Grado: 1
+ASISTENCIAL Grado: 3
 
-Código: 40601
-
- 
+Código: 51203
 
  
 
@@ -45,8 +43,10 @@ Código: 40601
 
  
 
-Número empleos por proveer: 1
-Prueba situacional: NO
+ 
+
+Dependencia (Planta global): Secretaría Académica-Ciencias Número empleos por proveer: 1
+Exactas y Naturales Prueba situacional: NO
 
  
 
@@ -55,24 +55,32 @@ Prueba situacional: NO
  
 
 PROPOSITO PRINCIPAL
+Realizar actividades administrativas brindando soporte al normal funcionamiento de la dependencia de acuerdo con las directrices y procedimientos
+vigentes.
 
-Realizar labores Administrativas y técnicas necesarias para el desarrollo y la ejecución de actividades de la dependencia en cumplimiento de los
-procedimientos establecidos y los fines misionales de la Universidad.
+ 
+
+ 
 
 DESCRIPCIÓN DE FUNCIONES ESENCIALES
-1. Brindar orientación sobre los diferentes aspectos del área y procesos de admisión a la comunidad universitaria y al público en general, de acuerdo
-con los cronogramas establecidos e inquietudes recibidas.
-2. Apoyar la radicación, elaboración y despacho de correspondencia de los asuntos pertinentes del área, atendiendo las directrices dadas por el jefe
-inmediato.
-3. Actualizar la información del Sistema de Información Académico SIA - en los módulos de Gestión Académica de pregrado, con las decisiones
-emanadas de los diferentes entes académicos administrativos, de manera oportuna y atendiendo los lineamientos establecidos por la Universidad.
-4. Realizar las actividades de cierre y apertura de cada período académico, conforme a los procedimientos establecidos.
-5. Mantener actualizadas las historias académicas de los estudiantes del Programa Especial de Admisión y Movilidad Académica — PEAMA de la
-Sede, con doble titulación y movilidad estudiantil, aplicando los procedimientos establecidos.
-6. Revisar periódicamente los estados de los estudiantes y las decisiones emanadas de los diferentes entes académico / administrativos.
-7. Actualizar la página web de la oficina sobre las actividades y procesos que deben realizar los estudiantes regulares de pregrado.
-8. Participar en la logística para las diferentes pruebas que realiza la Universidad, tanto en pregrado como en posgrado y demás que requiera el área
-funcional.
+1. Proyectar oficios, comunicaciones, memorandos, certificaciones, actas y demás documentos requeridos por la dependencia de acuerdo con los
+procedimientos establecidos.
+2. Tramitar las solicitudes presentadas ante la dependencia teniendo en cuenta los procedimientos establecidos.
+3. Brindar apoyo administrativo en los procesos académicos -administrativos de la dependencia, de acuerdo con los procedimientos y la normativa
+establecida por la Universidad.
+4. Recolectar la información sobre las actividades realizadas por la dependencia con el fin de garantizar el normal desarrollo de las mismas de acuerdo
+a los procedimientos establecidos por la Universidad.
+5. Realizar la recepción, organización, distribución y archivo de la correspondencia interna y externa de la dependencia efectuando los procedimientos
+documentales vigentes, de forma sistematizada y de acuerdo con las normas establecidas
+6. Actualizar los registros y bases de datos requeridas de acuerdo con las necesidades y procesos de la dependencia, procedimientos institucionales
+y normativa vigente.
+7. Elaborar el pedido de elementos de consumo y devolutivos que sean requeridos por la dependencia, a partir de la identificación de necesidades de
+los mismos y realizar control sobre la distribución de acuerdo a las directrices establecidas por la dependencia.
+8. Asistir a las jornadas de actualización y/o capacitaciones convocadas, que contribuyan a la mejora en la prestación de su servicio conforme a los
+procedimientos establecidos.
+9. Dar orientación a los usuarios, así como el traslado de las consultas de acuerdo a los lineamientos y procedimientos establecidos.
+
+CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJ ERCICIO DEL EMPLEO
 
  
 
@@ -82,57 +90,45 @@ funcional.
 
  
 
-CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
-
  
 
  
 
- 
-
- 
-
-1. Normativa Interna de la Universidad Pregrado y Posgrado
-2. Herramientas Ofimáticas
-3. Estructura Orgánica y Funcionamiento de la Universidad
-4. Técnicas y Habilidades de Redacción y Ortografía
-5. Gestión y Administración de Sistemas Operativos
-6. Gestión Documental Tablas de Retención Documental
-7. Procesos de Mejoramiento continuo
+1. Manejo del sistema de Información Académica vigente en la Universidad.
+2. Normativa académica y estudiantil de la Universidad
+3. Herramientas Ofimáticas y herramientas web
+4. Políticas y protocolos de atención al ciudadano.
+5. Ortografía y redacción de textos
+6. Gestión documental, Normativa, Tablas de Retención Documental
+7. Normativa y estructura interna de la Universidad
 COMPETENCIAS
 COMUNES NIVEL JERÁRQUICO
-1. Orientación a resultados 1. Experticia técnica
-2. Orientación al usuario y al ciudadano 2. Trabajo en equipo
-3. Transparencia 3. Organización del trabajo
-4. Compromiso con la Universidad 4. Análisis de información
-5. Rigurosidad
-6. Evaluación del riesgo
+1. Orientación a resultados 1. Trabajo en equipo.
+2. Orientación al usuario y al ciudadano 2. Organización del trabajo.
+3. Transparencia 3. Rigurosidad.
+4. Compromiso con la Universidad 4. Evaluación del riesgo.
+5. Flexibilidad y adaptación.
+6. Destreza operativa.
 
  
 
  
 
-- . REQUISITOS MÍNIMOS
-
+REQUISITOS MÍNIMOS
 FORMACIÓN ACADÉMICA EXPERIENCIA EQUIVALENCIA
-Título de formación técnica profesional o tecnológica o
-cuatro (4) semestres de formación universitaria,
-debidamente certificados, en los núcleos básicos del
-conocimiento en: Ingeniería de Sistemas Telemáticas y
-afines, Ingeniería Electrónica Telecomunicaciones y afines;
-Ingenieria industrial y afines; administración; economia;
-contaduria pública; sociologia, trabajo social y afines;
-derecho y afines.
-
- 
-
- 
-
 Se aplicarán las equivalencias entre
 estudios y experiencia establecidas en el
-No requiere. artículo 18 de la Resolución de Rectoría
+artículo 18 de la Resolución de Rectoría
 No. 915 de 2017 y demás normas que la
 modifiquen, sustituyan o deroguen.
+
+ 
+
+ 
+
+Treinta y seis (36) meses de experiencia
+
+Título de bachiller. relacionada.
 
  
 
@@ -141,6 +137,7 @@ modifiquen, sustituyan o deroguen.
  
 
 INSCRIPCIONES
+
 1. Podrán participar todas las personas que cumplan con las condiciones establecidas en los artículos 17 y18 de la Resolución de Rectoría N* 07/2024
 y demás normas que lo modifiquen, sustituyan, adicionen o deroguen.
 2. Cada aspirante podrá inscribirse a una (1) sola convocatoria y un (1) solo tipo de concurso, verificando que cumpla con los requisitos mínimos
@@ -170,24 +167,22 @@ ASCENSO.
 razonables necesarios para garantizar la aplicación de las pruebas en condiciones de igualdad con los demás aspirantes.
 12. Las pruebas se aplicarán en las ciudades de Bogotá, Arauca, Leticia, Manizales, Medellín, Palmira, San Andrés Isla, La Paz y Tumaco.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 CRONOGRAMA ETAPAS DEL PROCESO O FECHA FIN
 Publicación de las convocatorias 29-abr-25 29-abr-25
+
 Divulgación de las convocatorias 29-abr-25 20-may-25
-Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 horas del último día) 21-may-25 27-may-25
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -280,13 +275,14 @@ Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 
 
  
 
+Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 horas del último día) 21-may-25 27-may-25
 Proceso de inscripción y carga de documentos Concurso ABIERTO (Cierre 23:59:59 horas del último día) 16-jun-25 20-jun-25
 Publicación de listado de inscritos 9-jul-25 10-jul-25
 Publicación de listado Preliminar de admitidos y no admitidos 5-ago-25 5-ago-25
 Recepción de reclamaciones por sitio Web 6-ago-25 8-ago-25
 Respuesta a reclamaciones 21-sep-25 21-sep-25
 Publicación de listado definitivo de admitidos, respuesta a reclamaciones y citación a pruebas escritas 21-sep-25 21-sep-25
-Aplicación de pruebas escritas 19-oct-25 19-oct-25
+Aplicación de pruebas escritas 19-oct-25 19-oct25
 Publicación de resultados prueba escrita eliminatoria 16-nov-25 16-nov-25
 Recepción de reclamaciones por sitio Web 18-nov-25 19-nov-25
 Citación acceso a pruebas eliminatorias 26-nov-25 26-nov-25
@@ -317,13 +313,21 @@ Competencias comportamentales. Clasificatoria 30%
 Prueba de valoración de Clasificatoria No aplica 10%
 antecedentes.
 TOTAL 100%
-El lugar y la hora específica para la aplicación de las pruebas será informado en la fecha de citación correspondiente. De manera anticipada a la
-aplicación de las pruebas, será publicado en el sitio web del concurso www.concursomixto.unal.edu.co el instructivo de: Prueba escrita de
-Competencias Básicas y Funcionales y de Prueba de competencias comportamentales. Para el trámite de las reclamaciones se aplicará lo establecido
 
  
 
-en el Artículo 72 de la de la Resolución de Rectoría N* 07/2024. Los artículos 62 y 63 de la Resolución de Rectoría N* 07/2024 determinan que la
+ 
+
+El lugar y la hora específica para la aplicación de las pruebas será informado en la fecha de citación correspondiente. De manera anticipada a la
+aplicación de las pruebas, será publicado en el sitio web del concurso www.concursomixto.unal.edu.co el instructivo de: Prueba escrita de
+
+Competencias Básicas y Funcionales y de Prueba de competencias comportamentales. Para el trámite de las reclamaciones se aplicará
+
+ 
+
+o establecido
+
+en el Artículo 72 de la de la Resolución de Rectoría N” 07/2024. Los artículos 62 y 63 de la Resolución de Rectoría N” 07/2024 determinan que la
 duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de ascenso como para el concurso abierto.
 
  
@@ -332,14 +336,12 @@ duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de
 
 FIRMA:
 
-Firmado
-digitalmente por
-Belizza Janet Ruiz
+Firmado digitalmente
+Be lizza ria por Belizza Janet Ruiz
 Mendoza
-BELIZZA ] ANET RUIZ MENDOZA
-Vicerrectora de Sede
 
-Be lizza via
+BELIZZA J ANET RUIZ MENDOZA
+Vicerrectora de Sede
 
  
 

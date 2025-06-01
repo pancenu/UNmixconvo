@@ -5,8 +5,8 @@
  
 
 CONCURSO DE MÉRITOS MIXTO PARA PROVEER CARGOS DE CONVOCATORIA No
-CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 40601- 01
-UNIVERSIDAD COLOMBIA 2025 Tipo: ABIERTO
+CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 40601- 06
+UNIVERSIDAD COLOMBIA 2025 Tipo: ASCENSO
 NACIONAL De conformidad con lo consagrado en el Acuerdo 067 de 1996 del Consejo 29 de abril de 2025
 DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Resolución
 07 de 2024 de Rectoría y sus modificatorias
@@ -17,23 +17,18 @@ DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Re
 
 IDENTIFICACIÓN DEL EMPLEO A PROVEER
 
-Asignación Básica Mensual:
-$ 3.761.912 (Vigencia 2024)
-
  
 
 Denominación:
 Técnico
 Administrativo
-Sede: MANIZALES
-Ciudad de Trabajo: MANIZALES
-Nota: Al momento de la inscripción el Dependencia (Planta global): Sección de Registro y Matrícula
-aspirante deberá indicar la ciudad de
-aplicación de las pruebas.
 
 Nivel:
 
-TÉCNICO Grado: 1
+¡ Asignación Básica Mensual:
+TÉCNICO
+
+Grado: 1 $ 3.761.912 (Vigencia 2024)
 
 Código: 40601
 
@@ -45,6 +40,13 @@ Código: 40601
 
  
 
+Sede: MANIZALES
+
+Ciudad de Trabajo: MANIZALES
+Nota: Al momento de la inscripción el Dependencia (Planta global): Sección de Biblioteca
+aspirante deberá indicar la ciudad de
+aplicación de las pruebas.
+
 Número empleos por proveer: 1
 Prueba situacional: NO
 
@@ -52,27 +54,66 @@ Prueba situacional: NO
 
  
 
- 
-
 PROPOSITO PRINCIPAL
 
-Realizar labores Administrativas y técnicas necesarias para el desarrollo y la ejecución de actividades de la dependencia en cumplimiento de los
-procedimientos establecidos y los fines misionales de la Universidad.
+ 
+
+ 
+
+Brindar asistencia técnica Administrativa en la revisión de los sistemas de información, de los registros de identificación, la descripción y la catalogación
+del material bibliográfico, según la normativa del Sistema Nacional de Bibliotecas - SINAB.
+
+ 
 
 DESCRIPCIÓN DE FUNCIONES ESENCIALES
-1. Brindar orientación sobre los diferentes aspectos del área y procesos de admisión a la comunidad universitaria y al público en general, de acuerdo
-con los cronogramas establecidos e inquietudes recibidas.
-2. Apoyar la radicación, elaboración y despacho de correspondencia de los asuntos pertinentes del área, atendiendo las directrices dadas por el jefe
-inmediato.
-3. Actualizar la información del Sistema de Información Académico SIA - en los módulos de Gestión Académica de pregrado, con las decisiones
-emanadas de los diferentes entes académicos administrativos, de manera oportuna y atendiendo los lineamientos establecidos por la Universidad.
-4. Realizar las actividades de cierre y apertura de cada período académico, conforme a los procedimientos establecidos.
-5. Mantener actualizadas las historias académicas de los estudiantes del Programa Especial de Admisión y Movilidad Académica — PEAMA de la
-Sede, con doble titulación y movilidad estudiantil, aplicando los procedimientos establecidos.
-6. Revisar periódicamente los estados de los estudiantes y las decisiones emanadas de los diferentes entes académico / administrativos.
-7. Actualizar la página web de la oficina sobre las actividades y procesos que deben realizar los estudiantes regulares de pregrado.
-8. Participar en la logística para las diferentes pruebas que realiza la Universidad, tanto en pregrado como en posgrado y demás que requiera el área
-funcional.
+
+ 
+
+1. Clasificar y registrar el material bibliográfico, en el sistema de información destinado para este fin de acuerdo a los criterios y lineamientos existentes.
+2. Realizar la depuración de los registros bibliográficos y la actualización, en coherencia con los procedimientos y parámetros fijados.
+
+3. Participar en la presentación de propuestas de mejoramiento y de innovación del grupo de recursos de información de la biblioteca de acuerdo con
+los parámetros establecidos.
+
+4. Apoyar técnicamente y participar en el desarrollo del inventario de las bibliotecas para la solución de inconsistencias que se puedan presentar de
+acuerdo con las normas y lineamientos vigentes.
+
+5. Realizar el registro de autoridades en el módulo correspondiente, conforme a los parámetros establecidos.
+
+6. Brindar asistencia técnica en la digitalización del material bibliográfico, según la normativa del SINAB.
+
+7. Brindar asistencia a la comunidad universitaria sobre el uso, características y beneficios del repositorio institucional, la biblioteca digital y el
+procedimiento de autoarchivo y derechos de autor.
+
+8. Brindar información a los usuarios de la biblioteca en el uso de la tecnología para la búsqueda de información en los recursos de información de
+Sistema de Bibliotecas y préstamo de material bibliográfico, de acuerdo con los procedimientos establecidos.
+
+ 
+
+CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJ ERCICIO DEL EMPLEO
+
+ 
+
+1. Ofimática
+
+2. Recursos bibliográficos y tecnológicos
+
+3. Normativa del sistema nacional de bibliotecas y la Universidad
+
+4. Tecnologías de información.
+
+5. Técnicas de Documentación (Tesauros, LEMB, RDA, SCDD23 en línea) Técnicas bibliográficas (LARI, MARC, Dublín Core, Inteligencia Artificial,
+BibFrame).
+
+6. Motores de búsqueda específicos.
+
+7. Sistemas de información para bibliotecas.
+
+8. Manejo de material bibliográfico y documental
+
+9. Colecciones y recursos bibliográficos y tecnológicos.
+
+10. Herramientas Ofimáticas y bibliotecarias para la identificación y manejo de material bibliográfico.
 
  
 
@@ -80,59 +121,41 @@ funcional.
 
  
 
- 
-
-CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
-
- 
-
- 
-
- 
-
- 
-
-1. Normativa Interna de la Universidad Pregrado y Posgrado
-2. Herramientas Ofimáticas
-3. Estructura Orgánica y Funcionamiento de la Universidad
-4. Técnicas y Habilidades de Redacción y Ortografía
-5. Gestión y Administración de Sistemas Operativos
-6. Gestión Documental Tablas de Retención Documental
-7. Procesos de Mejoramiento continuo
 COMPETENCIAS
 COMUNES NIVEL JERÁRQUICO
+
 1. Orientación a resultados 1. Experticia técnica
 2. Orientación al usuario y al ciudadano 2. Trabajo en equipo
 3. Transparencia 3. Organización del trabajo
 4. Compromiso con la Universidad 4. Análisis de información
+
 5. Rigurosidad
+
 6. Evaluación del riesgo
 
  
 
  
 
-- . REQUISITOS MÍNIMOS
+REQUISITOS MÍNIMOS
+
+ 
 
 FORMACIÓN ACADÉMICA EXPERIENCIA EQUIVALENCIA
+
+ 
+
 Título de formación técnica profesional o tecnológica o
 cuatro (4) semestres de formación universitaria,
-debidamente certificados, en los núcleos básicos del
-conocimiento en: Ingeniería de Sistemas Telemáticas y
-afines, Ingeniería Electrónica Telecomunicaciones y afines;
-Ingenieria industrial y afines; administración; economia;
-contaduria pública; sociologia, trabajo social y afines;
-derecho y afines.
 
- 
+debidamente certificados en los núcleos básicos del Se aplicarán las equivalencias entre
+conocimiento en: Bibliotecología, otros de las ciencias estudios y experiencia establecidas en el
+sociales y humanas; Administración; Economia; Derecho y | No requiere artículo 18 de la Resolución de Rectoría
+afines; Ingeniería Administrativa y afines; Ingeniería No. 915 de 2017 y demás normas que la
+Industrial y afines; Ingeniería de Sistemas Telemáticas y modifiquen, sustituyan o deroguen.
 
- 
-
-Se aplicarán las equivalencias entre
-estudios y experiencia establecidas en el
-No requiere. artículo 18 de la Resolución de Rectoría
-No. 915 de 2017 y demás normas que la
-modifiquen, sustituyan o deroguen.
+afines; Comunicación social periodismo y afines;
+Sociologia, trabajo social y afines.
 
  
 
@@ -141,60 +164,59 @@ modifiquen, sustituyan o deroguen.
  
 
 INSCRIPCIONES
+
+ 
+
+ 
+
 1. Podrán participar todas las personas que cumplan con las condiciones establecidas en los artículos 17 y18 de la Resolución de Rectoría N* 07/2024
 y demás normas que lo modifiquen, sustituyan, adicionen o deroguen.
+
 2. Cada aspirante podrá inscribirse a una (1) sola convocatoria y un (1) solo tipo de concurso, verificando que cumpla con los requisitos mínimos
 establecidos.
+
 3. Al inscribirse, el aspirante acepta que todas las notificaciones, avisos, resultados de pruebas y en general la información que se genere en el del
 proceso concursal, se realizarán a través de la página web http://concursomixto.unal.edu.co/ y en los casos que se requiera se enviarán al correo
 electrónico registrado por el aspirante al momento de la inscripción.
+
 4. La formalización de la inscripción, se considera una aceptación por parte del aspirante, de todas las condiciones y requisitos contemplados en la
 convocatoria, normas y disposiciones internas que la Universidad ha establecido para el presente concurso.
-5. Previo a la inscripción, el aspirante debe pagar el valor del PIN conforme a lo establecido en el Art. 20 de la Resolución de Rectoría N* 07/2024. La
+
+5. Previo a la inscripción, el aspirante debe pagar el valor del PIN conforme a lo establecido en el Art. 20 de la Resolución de Rectoría N” 07/2024. La
 venta de pines se realizará únicamente entre el 21 de mayo y el 19 de junio de 2025. La compra del PIN se realizará a través de pago virtual dispuesto
 en el sitio web http://concursomixto.unal.edu.co/
+
 6. Las inscripciones para el concurso de ASCENSO se realizarán únicamente en el enlace: http://concursomixto.unal.edu.co/, desde las 00:01 horas
 del día 21 de mayo hasta las 23:59:59 horas del 27 de mayo de 2025 por medio del formulario electrónico de inscripción.
+
 6. Las inscripciones para el concurso de ABIERTO se realizarán únicamente en el enlace: http://concursomixto.unal.edu.co/, desde las 00:01 horas
 del día 16 de junio hasta las 23:59:59 horas del 20 de junio de 2025 por medio del formulario electrónico de inscripción.
+
 7. Para la inscripción, el aspirante deberá digitar el PIN asignado y demás datos solicitados en el aplicativo siguiendo las instrucciones allí indicadas.
 Una vez adquirido el PIN, no se harán devoluciones de dinero.
+
 8. Una vez cerradas las inscripciones, por ningún motivo se recibirán, ni admitirán inscripciones o documentación adicional a la aportada por los
 aspirantes o a la que repose en su historia laboral en el caso de los servidores públicos de carrera administrativa especial de la Universidad Nacional
 de Colombia. La fecha límite de actualización de documentación en el portal SARA para los servidores públicos de carrera administrativa especial de
 la Universidad Nacional de Colombia será el día 27 de mayo 2025, día de cierre del proceso de inscripción y carga de documentos Concurso
 ASCENSO.
+
 9. Los aspirantes debe registrar en el formulario de inscripción TODA la información que deseen sea tenida en cuenta en el presente proceso concursal.
 10. Serán causales de exclusión las establecidas en el artículo 25 de la Resolución de Rectoría N* 07/2024.
+
 11. El aspirante en condición de discapacidad debe manifestarlo en el formulario electrónico de inscripción, con el propósito de adoptar los ajustes
 razonables necesarios para garantizar la aplicación de las pruebas en condiciones de igualdad con los demás aspirantes.
+
 12. Las pruebas se aplicarán en las ciudades de Bogotá, Arauca, Leticia, Manizales, Medellín, Palmira, San Andrés Isla, La Paz y Tumaco.
 
  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-CRONOGRAMA ETAPAS DEL PROCESO O FECHA FIN
-Publicación de las convocatorias 29-abr-25 29-abr-25
-Divulgación de las convocatorias 29-abr-25 20-may-25
-Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 horas del último día) 21-may-25 27-may-25
 
  
 
 --- Página 2 ---
  
 
- 
+FECHA
 
  
 
@@ -280,6 +302,16 @@ Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 
 
  
 
+ 
+
+ 
+
+ 
+
+CRONOGRAMA ETAPAS DEL PROCESO INICIO FECHA FIN
+Publicación de las convocatorias 29-abr-25 29-abr-25
+Divulgación de las convocatorias 29-abr-25 20-may-25
+Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 horas del último día) 21-may-25 27-may-25
 Proceso de inscripción y carga de documentos Concurso ABIERTO (Cierre 23:59:59 horas del último día) 16-jun-25 20-jun-25
 Publicación de listado de inscritos 9-jul-25 10-jul-25
 Publicación de listado Preliminar de admitidos y no admitidos 5-ago-25 5-ago-25
@@ -317,11 +349,19 @@ Competencias comportamentales. Clasificatoria 30%
 Prueba de valoración de Clasificatoria No aplica 10%
 antecedentes.
 TOTAL 100%
-El lugar y la hora específica para la aplicación de las pruebas será informado en la fecha de citación correspondiente. De manera anticipada a la
-aplicación de las pruebas, será publicado en el sitio web del concurso www.concursomixto.unal.edu.co el instructivo de: Prueba escrita de
-Competencias Básicas y Funcionales y de Prueba de competencias comportamentales. Para el trámite de las reclamaciones se aplicará lo establecido
 
  
+
+ 
+
+El lugar y la hora específica para la aplicación de las pruebas será informado en la fecha de citación correspondiente. De manera anticipada a la
+aplicación de las pruebas, será publicado en el sitio web del concurso www.concursomixto.unal.edu.co el instructivo de: Prueba escrita de
+
+Competencias Básicas y Funcionales y de Prueba de competencias comportamentales. Para el trámite de las reclamaciones se aplicará
+
+ 
+
+o establecido
 
 en el Artículo 72 de la de la Resolución de Rectoría N* 07/2024. Los artículos 62 y 63 de la Resolución de Rectoría N* 07/2024 determinan que la
 duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de ascenso como para el concurso abierto.
@@ -332,14 +372,12 @@ duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de
 
 FIRMA:
 
-Firmado
-digitalmente por
-Belizza Janet Ruiz
+s Firmado digitalmente
+Be lizza Ro; 2 por Belizza Janet Ruiz
 Mendoza
-BELIZZA ] ANET RUIZ MENDOZA
-Vicerrectora de Sede
 
-Be lizza via
+BELIZZA J ANET RUIZ MENDOZA
+Vicerrectora de Sede
 
  
 

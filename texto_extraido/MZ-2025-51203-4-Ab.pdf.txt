@@ -5,7 +5,7 @@
  
 
 CONCURSO DE MÉRITOS MIXTO PARA PROVEER CARGOS DE CONVOCATORIA No
-CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 40601- 01
+CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 51203- 04
 UNIVERSIDAD COLOMBIA 2025 Tipo: ABIERTO
 NACIONAL De conformidad con lo consagrado en el Acuerdo 067 de 1996 del Consejo 29 de abril de 2025
 DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Resolución
@@ -18,24 +18,24 @@ DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Re
 IDENTIFICACIÓN DEL EMPLEO A PROVEER
 
 Asignación Básica Mensual:
-$ 3.761.912 (Vigencia 2024)
+$ 3.707.294 (Vigencia 2024)
 
  
 
 Denominación:
-Técnico
+Auxiliar
 Administrativo
 Sede: MANIZALES
 Ciudad de Trabajo: MANIZALES
-Nota: Al momento de la inscripción el Dependencia (Planta global): Sección de Registro y Matrícula
+Nota: Al momento de la inscripción el Dependencia (Planta global): Sección de Gestión de Bienes
 aspirante deberá indicar la ciudad de
 aplicación de las pruebas.
 
 Nivel:
 
-TÉCNICO Grado: 1
+ASISTENCIAL Grado: 3
 
-Código: 40601
+Código: 51203
 
  
 
@@ -55,24 +55,34 @@ Prueba situacional: NO
  
 
 PROPOSITO PRINCIPAL
+Brindar apoyo administrativo para la gestión de los procesos de la dependencia, conforme a los procedimientos y lineamientos institucionales.
 
-Realizar labores Administrativas y técnicas necesarias para el desarrollo y la ejecución de actividades de la dependencia en cumplimiento de los
-procedimientos establecidos y los fines misionales de la Universidad.
+ 
+
+ 
 
 DESCRIPCIÓN DE FUNCIONES ESENCIALES
-1. Brindar orientación sobre los diferentes aspectos del área y procesos de admisión a la comunidad universitaria y al público en general, de acuerdo
-con los cronogramas establecidos e inquietudes recibidas.
-2. Apoyar la radicación, elaboración y despacho de correspondencia de los asuntos pertinentes del área, atendiendo las directrices dadas por el jefe
-inmediato.
-3. Actualizar la información del Sistema de Información Académico SIA - en los módulos de Gestión Académica de pregrado, con las decisiones
-emanadas de los diferentes entes académicos administrativos, de manera oportuna y atendiendo los lineamientos establecidos por la Universidad.
-4. Realizar las actividades de cierre y apertura de cada período académico, conforme a los procedimientos establecidos.
-5. Mantener actualizadas las historias académicas de los estudiantes del Programa Especial de Admisión y Movilidad Académica — PEAMA de la
-Sede, con doble titulación y movilidad estudiantil, aplicando los procedimientos establecidos.
-6. Revisar periódicamente los estados de los estudiantes y las decisiones emanadas de los diferentes entes académico / administrativos.
-7. Actualizar la página web de la oficina sobre las actividades y procesos que deben realizar los estudiantes regulares de pregrado.
-8. Participar en la logística para las diferentes pruebas que realiza la Universidad, tanto en pregrado como en posgrado y demás que requiera el área
-funcional.
+
+1. Realizar el proceso de ingreso y salida de bienes devolutivos, y la clasificación y solicitud de códigos de acuerdo a los protocolos y lineamientos
+establecidos.
+2. Asistir la elaboración de las comunicaciones y correspondencia interna y externa de rutina, de acuerdo con las necesidades de la dependencia. y
+los lineamientos establecidos.
+3. Recoger las solicitudes presentadas ante la dependencia y tramitarlas teniendo en cuenta los procedimientos establecidos para tal fin.
+4. Asistir la organización y custodia de los documentos y archivos del área en forma sistematizada de acuerdo con las normas establecidas por la
+Universidad.
+5. Actualizar la base de datos de los actos administrativos producidos por la dependencia, facilitando la disponibilidad de información, bajo los
+parámetros establecidos.
+6. Apoyar en la recolección de información sobre las actividades realizadas por la dependencia, requerimientos de contratación y demás información
+que le sea solicitada con el fin de garantizar el normal desarrollo de las actividades de la misma y acorde a los lineamientos establecidos.
+7. Llevar el control del consumo de elementos asignados a la dependencia solicitando la provisión de los elementos faltantes y facilitando el
+cumplimiento de las funciones de la misma, de acuerdo con las directrices dadas por el jefe inmediato y los procedimientos establecidos.
+8. Elaborar el inventario documental de la dependencia en coherencia con la normativa y procedimientos establecidos por la Universidad.
+9. Apoyar en la elaboración de informes de almacén de acuerdo a los parámetros establecidos y requerimientos de Sede, Nivel Nacional, y entes de
+control interno y externo.
+10. Hacer seguimiento a la fecha de vencimiento de las órdenes de compra y contratos de compra, informando oportunamente al interventor o
+supervisor, conforme a los cronogramas y procedimientos establecidos.
+
+CONOCIMIENTOS BASICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
 
  
 
@@ -82,57 +92,43 @@ funcional.
 
  
 
-CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
-
  
 
  
 
- 
-
- 
-
-1. Normativa Interna de la Universidad Pregrado y Posgrado
-2. Herramientas Ofimáticas
-3. Estructura Orgánica y Funcionamiento de la Universidad
-4. Técnicas y Habilidades de Redacción y Ortografía
-5. Gestión y Administración de Sistemas Operativos
-6. Gestión Documental Tablas de Retención Documental
-7. Procesos de Mejoramiento continuo
+1. Manejo del sistema de información financiera vigente en la Universidad.
+2. Ofimática Word y Excel intermedio básico intermedio
+3. Políticas y protocolos de atención al ciudadano.
+4. Ortografía y redacción de textos.
+5. Gestión documental.
 COMPETENCIAS
 COMUNES NIVEL JERÁRQUICO
-1. Orientación a resultados 1. Experticia técnica
-2. Orientación al usuario y al ciudadano 2. Trabajo en equipo
-3. Transparencia 3. Organización del trabajo
-4. Compromiso con la Universidad 4. Análisis de información
-5. Rigurosidad
-6. Evaluación del riesgo
+1. Orientación a resultados 1. Trabajo en equipo.
+2. Orientación al usuario y al ciudadano 2. Organización del trabajo.
+3. Transparencia 3. Rigurosidad.
+4. Compromiso con la Universidad 4. Evaluación del riesgo.
+5. Flexibilidad y adaptación.
+6. Destreza operativa.
 
  
 
  
 
-- . REQUISITOS MÍNIMOS
-
+REQUISITOS MÍNIMOS
 FORMACIÓN ACADÉMICA EXPERIENCIA EQUIVALENCIA
-Título de formación técnica profesional o tecnológica o
-cuatro (4) semestres de formación universitaria,
-debidamente certificados, en los núcleos básicos del
-conocimiento en: Ingeniería de Sistemas Telemáticas y
-afines, Ingeniería Electrónica Telecomunicaciones y afines;
-Ingenieria industrial y afines; administración; economia;
-contaduria pública; sociologia, trabajo social y afines;
-derecho y afines.
-
- 
-
- 
-
 Se aplicarán las equivalencias entre
 estudios y experiencia establecidas en el
-No requiere. artículo 18 de la Resolución de Rectoría
+artículo 18 de la Resolución de Rectoría
 No. 915 de 2017 y demás normas que la
 modifiquen, sustituyan o deroguen.
+
+ 
+
+ 
+
+Treinta y seis (36) meses de experiencia
+
+Título de bachiller. relacionada.
 
  
 
@@ -165,7 +161,7 @@ de Colombia. La fecha límite de actualización de documentación en el portal S
 la Universidad Nacional de Colombia será el día 27 de mayo 2025, día de cierre del proceso de inscripción y carga de documentos Concurso
 ASCENSO.
 9. Los aspirantes debe registrar en el formulario de inscripción TODA la información que deseen sea tenida en cuenta en el presente proceso concursal.
-10. Serán causales de exclusión las establecidas en el artículo 25 de la Resolución de Rectoría N* 07/2024.
+10. Serán causales de exclusión las establecidas en el artículo 25 de la Resolución de Rectoría N” 07/2024.
 11. El aspirante en condición de discapacidad debe manifestarlo en el formulario electrónico de inscripción, con el propósito de adoptar los ajustes
 razonables necesarios para garantizar la aplicación de las pruebas en condiciones de igualdad con los demás aspirantes.
 12. Las pruebas se aplicarán en las ciudades de Bogotá, Arauca, Leticia, Manizales, Medellín, Palmira, San Andrés Isla, La Paz y Tumaco.
@@ -192,10 +188,6 @@ Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 
  
 
 --- Página 2 ---
- 
-
- 
-
  
 
  
@@ -317,11 +309,19 @@ Competencias comportamentales. Clasificatoria 30%
 Prueba de valoración de Clasificatoria No aplica 10%
 antecedentes.
 TOTAL 100%
-El lugar y la hora específica para la aplicación de las pruebas será informado en la fecha de citación correspondiente. De manera anticipada a la
-aplicación de las pruebas, será publicado en el sitio web del concurso www.concursomixto.unal.edu.co el instructivo de: Prueba escrita de
-Competencias Básicas y Funcionales y de Prueba de competencias comportamentales. Para el trámite de las reclamaciones se aplicará lo establecido
 
  
+
+ 
+
+El lugar y la hora específica para la aplicación de las pruebas será informado en la fecha de citación correspondiente. De manera anticipada a la
+aplicación de las pruebas, será publicado en el sitio web del concurso www.concursomixto.unal.edu.co el instructivo de: Prueba escrita de
+
+Competencias Básicas y Funcionales y de Prueba de competencias comportamentales. Para el trámite de las reclamaciones se aplicará
+
+ 
+
+o establecido
 
 en el Artículo 72 de la de la Resolución de Rectoría N* 07/2024. Los artículos 62 y 63 de la Resolución de Rectoría N* 07/2024 determinan que la
 duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de ascenso como para el concurso abierto.
@@ -332,14 +332,15 @@ duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de
 
 FIRMA:
 
-Firmado
-digitalmente por
-Belizza Janet Ruiz
-Mendoza
-BELIZZA ] ANET RUIZ MENDOZA
-Vicerrectora de Sede
+B
 
-Be lizza via
+Firmado digitalmente
+
+elizaa Ria por Belizza Janet Ruiz
+Mendoza
+
+BELIZZA J ANET RUIZ MENDOZA
+Vicerrectora de Sede
 
  
 

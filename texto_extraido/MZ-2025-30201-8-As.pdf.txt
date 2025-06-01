@@ -2,25 +2,14 @@
 --- Página 1 ---
  
 
-CONCURSO DE MÉRITOS MIXTO PARA PROVEER CARGOS DE
-CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE
-COLOMBIA 2025
-De conformidad con lo consagrado en el Acuerdo 067 de 1996 del Consejo
-Superior Universitario -Estatuto del Personal Administrativo y la Resolución
-07 de 2024 de Rectoría y sus modificatorias
-
-CONVOCATORIA No
-MZ-2025- 30201- 08
-Tipo: ASCENSO
-29 de abril de 2025
-
-UNIVERSIDAD
-
-NACIONAL
-
-DE COLOMBIA
-
  
+
+CONCURSO DE MÉRITOS MIXTO PARA PROVEER CARGOS DE CONVOCATORIA No
+CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 30201- 08
+UNIVERSIDAD COLOMBIA 2025 Tipo: ASCENSO
+NACIONAL De conformidad con lo consagrado en el Acuerdo 067 de 1996 del Consejo 29 de abril de 2025
+DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Resolución
+07 de 2024 de Rectoría y sus modificatorias
 
  
 
@@ -28,18 +17,23 @@ DE COLOMBIA
 
 IDENTIFICACIÓN DEL EMPLEO A PROVEER
 
+Asignación Básica Mensual:
+$ 4.608.511 (Vigencia 2024)
+
  
 
 Denominación:
 Profesional
 Universitario
+Sede: MANIZALES
+Ciudad de Trabajo: MANIZALES
+Nota: Al momento de la inscripción el Dependencia (Planta global): Sección de Mantenimiento
+aspirante deberá indicar la ciudad de
+aplicación de las pruebas.
 
 Nivel:
-PROFESIONAL
 
-Asignación Básica Mensual:
-
-Grado: 1 $ 4.608.511 (Vigencia 2024)
+PROFESIONAL Grado: 1
 
 Código: 30201
 
@@ -51,141 +45,91 @@ Código: 30201
 
  
 
-Sede: MANIZALES
-
-Ciudad de Trabajo: MANIZALES
-Nota: Al momento de la inscripción el
-aspirante deberá indicar la ciudad de
-aplicación de las pruebas.
-
 Número empleos por proveer: 1
-
-Dependencia (Planta global): Sección de Mantenimiento Prueba situacional: NO
-
- 
+Prueba situacional: NO
 
  
 
  
 
-PROPÓSITO PRINCIPAL
-
  
 
+PROPOSITO PRINCIPAL
 Coordinar, supervisar y gestionar las actividades relacionadas con el desarrollo y mantenimiento de los proyectos de obras civiles e infraestructura,
 mantenimiento preventivo y correctivo de la Sede, conforme a los lineamientos y procedimientos de la dependencia y la normativa vigente.
-
- 
-
 DESCRIPCIÓN DE FUNCIONES ESENCIALES
-
- 
-
 1. Realizar con el jefe de la dependencia la proyección de los proyectos requeridos para atender las necesidades de la planta física.
-
 2. Realizar la coordinación y seguimiento de obras para el mantenimiento de la infraestructura física de la Sede, preservación y mantenimiento de las
 construcciones, conforme a los lineamientos institucionales y la normativa vigente.
-
 3. Realizar las visitas a la planta física de la Sede con el fin de formular y actualizar el manual de mantenimiento preventivo y correctivo en la Sede.
 4. Participar en las etapas precontractual y contractual de la dependencia en cumplimiento de la normativa y procedimientos de la Universidad.
-
 5. Coordinar la realización, consolidación y presentación de informes que sean requeridos por las instancias de control y dirección de la Universidad,
 así como de las autoridades del Estado, respecto al desarrollo físico de la Sede, conforme a los lineamientos institucionales.
-
 6. Generar los planos formato Cad de todos los elementos que requieran ser ejecutados con el objeto de tener una correcta interpretación.
-
 7. Realizar estudio de mercados requeridos para la contratación y la proyección presupuestal en cada vigencia.
-
 8. Elaborar y gestionar documentalmente todos los requerimientos que surjan de la formulación y ejecución de los planes de mantenimiento preventivo
 y correctivo.
-
 9. Realizar supervisiones de obra ejecutadas por la dependencia y la Dirección de Sede
-
 10. Asistir el desarrollo de los procesos administrativos, financieros, presupuestales y contables de la dependencia.
-
 11. Realizar la aplicación y monitoreo de las medidas correctivas resultantes de las decisiones internas de mejora o como resultado de las auditorías
 internas de acuerdo a los lineamientos establecidos.
-
 12. Apoyar a la Sección en la coordinación de las actividades y en la coordinación y suscripción de convenios.
-
 13. Apoyar el proceso de planeación y proyección presupuestal requerido en la vigencia para ejecutar las intervenciones requeridas en la Sede.
+CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJ ERCICIO DEL EMPLEO
 
  
 
-CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
+ 
 
  
 
-. Estructura y Funcionamiento de la Dependencia y la Universidad
-. Manejo de Programas de Diseño 2D: Autocad y Sketchu
-
-. Manejo de Programas de Ofimática: Word, Excel, Power Point
-
-. Formulación y Evaluación de Proyectos
-
-. Plan Global de Desarrollo de la Vigencia
-
-. Normatividad General de Construcción y Ambiental
-
-. Normativa interna de la universidad.
-
-NoOId=u0NEe
+ 
 
  
 
-COMPETENCIAS
+ 
 
  
 
-COMUNES
-
-NIVEL JERÁRQUICO
-
  
 
-. Orientación a resultados
+1. Estructura y Funcionamiento de la Dependencia y la Universidad
+2. Manejo de Programas de Diseño 2D: Autocad y Sketchu
+3. Manejo de Programas de Ofimática: Word, Excel, Power Point
+4. Formulación y Evaluación de Proyectos
+5. Plan Global de Desarrollo de la Vigencia
+6. Normatividad General de Construcción y Ambiental
+7. Normativa interna de la universidad.
+COMPETENCIAS -
+COMUNES NIVEL JERÁRQUICO
 
-. Orientación al usuario y al ciudadano
-. Transparencia
-
-. Compromiso con la Universidad
-
-buUuNnNRe
-
-1. Pensamiento analítico
-2. Experticia profesional
-
-4. Argumentación
-
-3. Organización del trabajo
+1. Orientación a resultados 1. Pensamiento analítico
+2. Orientación al usuario y al ciudadano 2. Experticia profesional
+3. Transparencia 3. Organización del trabajo
+4. Compromiso con la Universidad 4. Argumentación
 
 5. Trabajo en equipo
 
 6. Aprendizaje continuo
-REQUISITOS MÍNIMOS
-EXPERIENCIA
 
  
 
  
 
- 
-
-FORMACIÓN ACADÉMICA
+- . REQUISITOS MÍNIMOS
+FORMACIÓN ACADÉMICA EXPERIENCIA EQUIVALENCIA
 
 Título Profesional Universitario en los núcleos básicos del
 conocimiento en: Administración; Economía; Derecho y
 Afines; Contaduría Pública; Ingeniería de Sistemas,
-telemática y afines; Ingeniería Eléctrica y afines;
+telemática y afines; Ingeniería Eléctrica y afines; | No requiere. NA
 Arquitectura; Ingeniería Civil y afines; Ingeniería
 Electrónica, Telecomunicaciones y afines; Ingeniería
 Industrial y Afines; Ingeniería Administrativa y afines.
 
-EQUIVALENCIA
-
  
 
-No requiere. NA
+ 
 
  
 
@@ -208,7 +152,7 @@ venta de pines se realizará únicamente entre el 21 de mayo y el 19 de junio de
 en el sitio web http://concursomixto.unal.edu.co/
 6. Las inscripciones para el concurso de ASCENSO se realizarán únicamente en el enlace: http://concursomixto.unal.edu.co/, desde las 00:01 horas
 del día 21 de mayo hasta las 23:59:59 horas del 27 de mayo de 2025 por medio del formulario electrónico de inscripción.
-6. Las inscripciones para el concurso de ABIERTO se realizarán únicamente en el enlace: http:/lIconcursomixto.unal.edu.co/, desde las 00:01 horas
+6. Las inscripciones para el concurso de ABIERTO se realizarán únicamente en el enlace: http://concursomixto.unal.edu.co/, desde las 00:01 horas
 del día 16 de junio hasta las 23:59:59 horas del 20 de junio de 2025 por medio del formulario electrónico de inscripción.
 7. Para la inscripción, el aspirante deberá digitar el PIN asignado y demás datos solicitados en el aplicativo siguiendo las instrucciones allí indicadas.
 Una vez adquirido el PIN, no se harán devoluciones de dinero.
@@ -223,7 +167,7 @@ ASCENSO.
 razonables necesarios para garantizar la aplicación de las pruebas en condiciones de igualdad con los demás aspirantes.
 
 12. Las pruebas se aplicarán en las ciudades de Bogotá, Arauca, Leticia, Manizales, Medellín, Palmira, San Andrés Isla, La Paz y Tumaco.
-CRONOGRAMA ETAPAS DEL PROCESO O. FECHA FIN
+CRONOGRAMA ETAPAS DEL PROCESO O FECHA FIN
 
  
 
@@ -320,10 +264,18 @@ CRONOGRAMA ETAPAS DEL PROCESO O. FECHA FIN
 
  
 
+ 
+
+ 
+
+ 
+
+ 
+
 Publicación de las convocatorias 29-abr-25 29-abr-25
 Divulgación de las convocatorias 29-abr-25 20-may-25
 Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 horas del último día) 21-may-25 27-may-25
-Proceso de inscripción y carga de documentos Concurso ABIERTO (Cierre 23:59:59 horas del último día) 16-j¡un-25 20-jun-25
+Proceso de inscripción y carga de documentos Concurso ABIERTO (Cierre 23:59:59 horas del último día) 16-jun-25 20-jun-25
 Publicación de listado de inscritos 9-jul-25 10-jul-25
 Publicación de listado Preliminar de admitidos y no admitidos 5-ago-25 5-ago-25
 Recepción de reclamaciones por sitio Web 6-ago-25 8-ago-25
@@ -360,17 +312,13 @@ Competencias comportamentales. Clasificatoria 30%
 Prueba de valoración de Clasificatoria No aplica 10%
 antecedentes.
 TOTAL 100%
-
- 
-
- 
-
- 
-
 El lugar y la hora específica para la aplicación de las pruebas será informado en la fecha de citación correspondiente. De manera anticipada a la
 aplicación de las pruebas, será publicado en el sitio web del concurso www.concursomixto.unal.edu.co el instructivo de: Prueba escrita de
 Competencias Básicas y Funcionales y de Prueba de competencias comportamentales. Para el trámite de las reclamaciones se aplicará lo establecido
-en el Artículo 72 de la de la Resolución de Rectoría N* 07/2024. Los artículos 62 y 63 de la Resolución de Rectoría N” 07/2024 determinan que la
+
+ 
+
+en el Artículo 72 de la de la Resolución de Rectoría N* 07/2024. Los artículos 62 y 63 de la Resolución de Rectoría N* 07/2024 determinan que la
 duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de ascenso como para el concurso abierto.
 
  
@@ -382,7 +330,7 @@ FIRMA:
 Beliz2a Ro; 2 por Belizza Janet Ruiz
 Mendoza
 
-BELIZZA JANET RUIZ MENDOZA
+BELIZZA J ANET RUIZ MENDOZA
 Vicerrectora de Sede
 
  

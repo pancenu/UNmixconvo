@@ -5,7 +5,7 @@
  
 
 CONCURSO DE MÉRITOS MIXTO PARA PROVEER CARGOS DE CONVOCATORIA No
-CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 40601- 01
+CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 51201- 08
 UNIVERSIDAD COLOMBIA 2025 Tipo: ABIERTO
 NACIONAL De conformidad con lo consagrado en el Acuerdo 067 de 1996 del Consejo 29 de abril de 2025
 DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Resolución
@@ -18,26 +18,24 @@ DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Re
 IDENTIFICACIÓN DEL EMPLEO A PROVEER
 
 Asignación Básica Mensual:
-$ 3.761.912 (Vigencia 2024)
+$ 2.735.488 (Vigencia 2024)
 
  
 
 Denominación:
-Técnico
+Auxiliar
 Administrativo
 Sede: MANIZALES
 Ciudad de Trabajo: MANIZALES
-Nota: Al momento de la inscripción el Dependencia (Planta global): Sección de Registro y Matrícula
+Nota: Al momento de la inscripción el
 aspirante deberá indicar la ciudad de
 aplicación de las pruebas.
 
 Nivel:
 
-TÉCNICO Grado: 1
+ASISTENCIAL Grado: 1
 
-Código: 40601
-
- 
+Código: 51201
 
  
 
@@ -45,8 +43,10 @@ Código: 40601
 
  
 
-Número empleos por proveer: 1
-Prueba situacional: NO
+ 
+
+Dependencia (Planta global): Sección de la Actividad Física y Número empleos por proveer: 1
+Deporte Prueba situacional: NO
 
  
 
@@ -55,24 +55,30 @@ Prueba situacional: NO
  
 
 PROPOSITO PRINCIPAL
+Brindar el apoyo logístico con el préstamo de elementos, espacios y escenarios, para la práctica física y deportiva y apoyar los procesos de digitación
+de información sobre la prestación de servicios de la sección.
 
-Realizar labores Administrativas y técnicas necesarias para el desarrollo y la ejecución de actividades de la dependencia en cumplimiento de los
-procedimientos establecidos y los fines misionales de la Universidad.
+ 
+
+ 
 
 DESCRIPCIÓN DE FUNCIONES ESENCIALES
-1. Brindar orientación sobre los diferentes aspectos del área y procesos de admisión a la comunidad universitaria y al público en general, de acuerdo
-con los cronogramas establecidos e inquietudes recibidas.
-2. Apoyar la radicación, elaboración y despacho de correspondencia de los asuntos pertinentes del área, atendiendo las directrices dadas por el jefe
-inmediato.
-3. Actualizar la información del Sistema de Información Académico SIA - en los módulos de Gestión Académica de pregrado, con las decisiones
-emanadas de los diferentes entes académicos administrativos, de manera oportuna y atendiendo los lineamientos establecidos por la Universidad.
-4. Realizar las actividades de cierre y apertura de cada período académico, conforme a los procedimientos establecidos.
-5. Mantener actualizadas las historias académicas de los estudiantes del Programa Especial de Admisión y Movilidad Académica — PEAMA de la
-Sede, con doble titulación y movilidad estudiantil, aplicando los procedimientos establecidos.
-6. Revisar periódicamente los estados de los estudiantes y las decisiones emanadas de los diferentes entes académico / administrativos.
-7. Actualizar la página web de la oficina sobre las actividades y procesos que deben realizar los estudiantes regulares de pregrado.
-8. Participar en la logística para las diferentes pruebas que realiza la Universidad, tanto en pregrado como en posgrado y demás que requiera el área
-funcional.
+
+1. Realizar labores logísticas relacionadas con la administración, el préstamo de los elementos y escenarios deportivos, asignados bajo su
+responsabilidad.
+
+2. Auxiliar la organización y desarrollo de los torneos internos, así como en los torneos externos, respondiendo por el apoyo logístico de los mismos.
+3. Realizar las inscripciones de los cursos libres programados por la Sección en el semestre, de acuerdo con los procedimientos establecidos.
+
+4. Brindar información a la comunidad estudiantil sobre los programas y eventos que realiza la Sección de Actividad Física y Deportes.
+5.
+6.
+
+ 
+
+Apoyar la verificación del buen uso de los elementos de la Sección de Actividad Física y Deportes actualizando el inventario a cargo.
+Verificar el cumplimiento de las órdenes de mantenimiento de los escenarios deportivos a Su cargo.
+CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJ ERCICIO DEL EMPLEO
 
  
 
@@ -82,93 +88,108 @@ funcional.
 
  
 
-CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
-
  
 
- 
-
- 
-
- 
-
-1. Normativa Interna de la Universidad Pregrado y Posgrado
-2. Herramientas Ofimáticas
-3. Estructura Orgánica y Funcionamiento de la Universidad
-4. Técnicas y Habilidades de Redacción y Ortografía
-5. Gestión y Administración de Sistemas Operativos
-6. Gestión Documental Tablas de Retención Documental
-7. Procesos de Mejoramiento continuo
-COMPETENCIAS
+1. Escenarios deportivos.
+2. Técnicas y operación de los equipos.
+3. Ofimática.
+4. Planes de manejo de emergencias.
+COMPETENCIAS -
 COMUNES NIVEL JERÁRQUICO
-1. Orientación a resultados 1. Experticia técnica
-2. Orientación al usuario y al ciudadano 2. Trabajo en equipo
-3. Transparencia 3. Organización del trabajo
-4. Compromiso con la Universidad 4. Análisis de información
-5. Rigurosidad
-6. Evaluación del riesgo
+
+1. Orientación a resultados 1. Trabajo en equipo.
+2. Orientación al usuario y al ciudadano 2. Organización del trabajo.
+3. Transparencia 3. Rigurosidad.
+4. Compromiso con la Universidad 4. Evaluación del riesgo.
+
+5. Flexibilidad y adaptación.
+
+6. Destreza operativa.
 
  
 
  
 
-- . REQUISITOS MÍNIMOS
+REQUISITOS MÍNIMOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 FORMACIÓN ACADÉMICA EXPERIENCIA EQUIVALENCIA
-Título de formación técnica profesional o tecnológica o
-cuatro (4) semestres de formación universitaria,
-debidamente certificados, en los núcleos básicos del
-conocimiento en: Ingeniería de Sistemas Telemáticas y
-afines, Ingeniería Electrónica Telecomunicaciones y afines;
-Ingenieria industrial y afines; administración; economia;
-contaduria pública; sociologia, trabajo social y afines;
-derecho y afines.
-
- 
-
- 
-
-Se aplicarán las equivalencias entre
-estudios y experiencia establecidas en el
-No requiere. artículo 18 de la Resolución de Rectoría
-No. 915 de 2017 y demás normas que la
-modifiquen, sustituyan o deroguen.
-
- 
-
- 
-
- 
-
+Título de bachiller. Doce (12) meses de experiencia NA
+relacionada.
 INSCRIPCIONES
+
+ 
+
 1. Podrán participar todas las personas que cumplan con las condiciones establecidas en los artículos 17 y18 de la Resolución de Rectoría N* 07/2024
 y demás normas que lo modifiquen, sustituyan, adicionen o deroguen.
+
 2. Cada aspirante podrá inscribirse a una (1) sola convocatoria y un (1) solo tipo de concurso, verificando que cumpla con los requisitos mínimos
 establecidos.
+
 3. Al inscribirse, el aspirante acepta que todas las notificaciones, avisos, resultados de pruebas y en general la información que se genere en el del
 proceso concursal, se realizarán a través de la página web http://concursomixto.unal.edu.co/ y en los casos que se requiera se enviarán al correo
 electrónico registrado por el aspirante al momento de la inscripción.
+
 4. La formalización de la inscripción, se considera una aceptación por parte del aspirante, de todas las condiciones y requisitos contemplados en la
 convocatoria, normas y disposiciones internas que la Universidad ha establecido para el presente concurso.
+
 5. Previo a la inscripción, el aspirante debe pagar el valor del PIN conforme a lo establecido en el Art. 20 de la Resolución de Rectoría N* 07/2024. La
 venta de pines se realizará únicamente entre el 21 de mayo y el 19 de junio de 2025. La compra del PIN se realizará a través de pago virtual dispuesto
 en el sitio web http://concursomixto.unal.edu.co/
+
 6. Las inscripciones para el concurso de ASCENSO se realizarán únicamente en el enlace: http://concursomixto.unal.edu.co/, desde las 00:01 horas
 del día 21 de mayo hasta las 23:59:59 horas del 27 de mayo de 2025 por medio del formulario electrónico de inscripción.
+
 6. Las inscripciones para el concurso de ABIERTO se realizarán únicamente en el enlace: http://concursomixto.unal.edu.co/, desde las 00:01 horas
 del día 16 de junio hasta las 23:59:59 horas del 20 de junio de 2025 por medio del formulario electrónico de inscripción.
+
 7. Para la inscripción, el aspirante deberá digitar el PIN asignado y demás datos solicitados en el aplicativo siguiendo las instrucciones allí indicadas.
 Una vez adquirido el PIN, no se harán devoluciones de dinero.
+
 8. Una vez cerradas las inscripciones, por ningún motivo se recibirán, ni admitirán inscripciones o documentación adicional a la aportada por los
 aspirantes o a la que repose en su historia laboral en el caso de los servidores públicos de carrera administrativa especial de la Universidad Nacional
 de Colombia. La fecha límite de actualización de documentación en el portal SARA para los servidores públicos de carrera administrativa especial de
 la Universidad Nacional de Colombia será el día 27 de mayo 2025, día de cierre del proceso de inscripción y carga de documentos Concurso
 ASCENSO.
+
 9. Los aspirantes debe registrar en el formulario de inscripción TODA la información que deseen sea tenida en cuenta en el presente proceso concursal.
 10. Serán causales de exclusión las establecidas en el artículo 25 de la Resolución de Rectoría N* 07/2024.
+
 11. El aspirante en condición de discapacidad debe manifestarlo en el formulario electrónico de inscripción, con el propósito de adoptar los ajustes
 razonables necesarios para garantizar la aplicación de las pruebas en condiciones de igualdad con los demás aspirantes.
+
 12. Las pruebas se aplicarán en las ciudades de Bogotá, Arauca, Leticia, Manizales, Medellín, Palmira, San Andrés Isla, La Paz y Tumaco.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -188,6 +209,23 @@ CRONOGRAMA ETAPAS DEL PROCESO O FECHA FIN
 Publicación de las convocatorias 29-abr-25 29-abr-25
 Divulgación de las convocatorias 29-abr-25 20-may-25
 Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 horas del último día) 21-may-25 27-may-25
+Proceso de inscripción y carga de documentos Concurso ABIERTO (Cierre 23:59:59 horas del último día) 16-jun-25 20-jun-25
+Publicación de listado de inscritos 9-jul-25 10-jul-25
+Publicación de listado Preliminar de admitidos y no admitidos 5-ago-25 5-ago-25
+Recepción de reclamaciones por sitio Web 6-ago-25 8-ago-25
+Respuesta a reclamaciones 21-sep-25 21-sep-25
+Publicación de listado definitivo de admitidos, respuesta a reclamaciones y citación a pruebas escritas 21-sep-25 21-sep-25
+Aplicación de pruebas escritas 19-oct-25 19-oct-25
+Publicación de resultados prueba escrita eliminatoria 16-nov-25 16-nov-25
+Recepción de reclamaciones por sitio Web 18-nov-25 19-nov-25
+Citación acceso a pruebas eliminatorias 26-nov-25 26-nov-25
+Exhibición a pruebas escritas eliminatorias 30-nov-25 30-nov-25
+Ampliación reclamaciones con base en el acceso a pruebas escritas eliminatorias 1-dic-25 2-dic-25
+Respuesta a reclamaciones 24-feb-26 24-feb-26
+
+ 
+
+ 
 
  
 
@@ -252,47 +290,6 @@ Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Proceso de inscripción y carga de documentos Concurso ABIERTO (Cierre 23:59:59 horas del último día) 16-jun-25 20-jun-25
-Publicación de listado de inscritos 9-jul-25 10-jul-25
-Publicación de listado Preliminar de admitidos y no admitidos 5-ago-25 5-ago-25
-Recepción de reclamaciones por sitio Web 6-ago-25 8-ago-25
-Respuesta a reclamaciones 21-sep-25 21-sep-25
-Publicación de listado definitivo de admitidos, respuesta a reclamaciones y citación a pruebas escritas 21-sep-25 21-sep-25
-Aplicación de pruebas escritas 19-oct-25 19-oct-25
-Publicación de resultados prueba escrita eliminatoria 16-nov-25 16-nov-25
-Recepción de reclamaciones por sitio Web 18-nov-25 19-nov-25
-Citación acceso a pruebas eliminatorias 26-nov-25 26-nov-25
-Exhibición a pruebas escritas eliminatorias 30-nov-25 30-nov-25
-Ampliación reclamaciones con base en el acceso a pruebas escritas eliminatorias 1-dic-25 2-dic-25
-Respuesta a reclamaciones 24-feb-26 24-feb-26
 Publicación de listado definitivo de resultados prueba escritas eliminatorias 24-feb-26 24-feb-26
 Citación a prueba clasificatoria: Competencias comportamentales modalidad situacional 24-feb-26 24-feb-26
 Valoración de antecedentes 12-nov-25 10-ene-26
@@ -332,14 +329,11 @@ duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de
 
 FIRMA:
 
-Firmado
-digitalmente por
-Belizza Janet Ruiz
+- Firmado digitalmente
+Be lizza ia por Belizza Janet Ruiz
 Mendoza
 BELIZZA ] ANET RUIZ MENDOZA
 Vicerrectora de Sede
-
-Be lizza via
 
  
 

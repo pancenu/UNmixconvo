@@ -5,8 +5,8 @@
  
 
 CONCURSO DE MÉRITOS MIXTO PARA PROVEER CARGOS DE CONVOCATORIA No
-CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 40601- 01
-UNIVERSIDAD COLOMBIA 2025 Tipo: ABIERTO
+CARRERA ADMINISTRATIVA EN LA UNIVERSIDAD NACIONAL DE MZ-2025- 30202- 09
+UNIVERSIDAD COLOMBIA 2025 Tipo: ASCENSO
 NACIONAL De conformidad con lo consagrado en el Acuerdo 067 de 1996 del Consejo 29 de abril de 2025
 DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Resolución
 07 de 2024 de Rectoría y sus modificatorias
@@ -17,62 +17,70 @@ DE COLOMBIA Superior Universitario -Estatuto del Personal Administrativo y la Re
 
 IDENTIFICACIÓN DEL EMPLEO A PROVEER
 
-Asignación Básica Mensual:
-$ 3.761.912 (Vigencia 2024)
-
  
 
 Denominación:
-Técnico
-Administrativo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+: Nivel: , Asignación Básica Mensual: La,
+Profesional Grado: 2 : : Código: 30202
+Universitario PROFESIONAL $ 5.120.569 (Vigencia 2024) 9
 Sede: MANIZALES
-Ciudad de Trabajo: MANIZALES
-Nota: Al momento de la inscripción el Dependencia (Planta global): Sección de Registro y Matrícula
-aspirante deberá indicar la ciudad de
+Ciudad de Trabajo: MANIZALES Dependencia (Planta global): Decanatura Facultad de Número empleos por proveer: 1
+Nota: Al momento de la inscripción el Ciencias Exactas y Naturales Prueba situacional: NO
+aspirante deberá indicar la ciudad de y :
 aplicación de las pruebas.
-
-Nivel:
-
-TÉCNICO Grado: 1
-
-Código: 40601
-
- 
-
- 
-
- 
-
- 
-
-Número empleos por proveer: 1
-Prueba situacional: NO
-
- 
 
  
 
  
 
 PROPOSITO PRINCIPAL
-
-Realizar labores Administrativas y técnicas necesarias para el desarrollo y la ejecución de actividades de la dependencia en cumplimiento de los
-procedimientos establecidos y los fines misionales de la Universidad.
-
+Realizar labores administrativas, financieras y de gestión relacionadas con la Facultad para el adecuado cumplimiento de los objetivos misionales de
+conformidad con los procedimientos y normativa vigente. .
 DESCRIPCIÓN DE FUNCIONES ESENCIALES
-1. Brindar orientación sobre los diferentes aspectos del área y procesos de admisión a la comunidad universitaria y al público en general, de acuerdo
-con los cronogramas establecidos e inquietudes recibidas.
-2. Apoyar la radicación, elaboración y despacho de correspondencia de los asuntos pertinentes del área, atendiendo las directrices dadas por el jefe
-inmediato.
-3. Actualizar la información del Sistema de Información Académico SIA - en los módulos de Gestión Académica de pregrado, con las decisiones
-emanadas de los diferentes entes académicos administrativos, de manera oportuna y atendiendo los lineamientos establecidos por la Universidad.
-4. Realizar las actividades de cierre y apertura de cada período académico, conforme a los procedimientos establecidos.
-5. Mantener actualizadas las historias académicas de los estudiantes del Programa Especial de Admisión y Movilidad Académica — PEAMA de la
-Sede, con doble titulación y movilidad estudiantil, aplicando los procedimientos establecidos.
-6. Revisar periódicamente los estados de los estudiantes y las decisiones emanadas de los diferentes entes académico / administrativos.
-7. Actualizar la página web de la oficina sobre las actividades y procesos que deben realizar los estudiantes regulares de pregrado.
-8. Participar en la logística para las diferentes pruebas que realiza la Universidad, tanto en pregrado como en posgrado y demás que requiera el área
-funcional.
+1. Participar en el proceso de formulación, implementación, seguimiento y evaluación de los proyectos específicos, de conformidad con las directrices
+impartidas, conforme a los lineamientos institucionales y la normativa vigente.
+2. Realizar en coordinación con la Decanatura la Proyección del presupuesto de ingresos y gastos de funcionamiento, inversión de la Facultad y la
+UGI.
+3. Brindar asistencia en la gestión administrativa de la ejecución de los recursos, para facilitar el cumplimiento de objetivos de la Facultad, en
+coherencia con los procedimientos fijados.
+4. Ejecutar y realizar seguimiento a la ejecución presupuestal de los proyectos, garantizando la correcta contabilización, ejecución (control y trámite
+de pago, manejo de cartera y conciliación de ingresos), de acuerdo a la aplicación de las normas y de los procedimientos vigentes
+5. Realizar el seguimiento a la ejecución financiera y presupuestal de la Facultad y de la UG!, de acuerdo con los procedimientos vigentes.
+6. Verificar el estado de las cuentas bancarias para validar con el presupuesto asignado de acuerdo a los lineamientos emitidos
+7. Realizar la solicitud de traslados presupuestales y elaborar las resoluciones de traslados según los planes, programas y proyectos de conformidad
+con la normativa vigente y los procedimientos.
+8. Elaborar informes presupuestales, financieros, avances de proyectos y avances de cuentas, conforme a lo establecido por los procedimientos.
+9. Elaborar y presentar los informes técnicos financieros, cuando sean requeridos por los entes de control interno y externo y de acuerdo a los
+parámetros establecidos.
+10. Gestionar la contratación de la Facultad, buscando el mejoramiento continuo del proceso y el cumplimiento de los objetivos de la Facultad, conforme
+a la normativa y los procedimientos establecidos
+11. Prestar apoyo profesional y técnico a las directivas de la Facultad en la implementación de políticas, fijación de métodos, procedimientos de trabajo
+y elaboración de proyectos que conlleven a la realización de la misión de la Universidad en cumplimiento de los procedimientos establecidos.
+12. Proponer estrategias de mejora y de sostenibilidad en los procesos de presupuesto, de conformidad con las políticas institucionales.
+13. Hacer proyecciones financieras a corto y largo plazo de acuerdo a los compromisos establecidos en los diferentes convenios interinstitucionales.
+CONOCIMIENTOS BASICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
+. Estatuto general de la Universidad Nacional de Colombia
+. Estatuto orgánico del presupuesto
+. Régimen Financiero de la Universidad Nacional de Colombia
+. Sistema de Presupuesto y Giro de Regalías
+. Estructura del presupuesto en la Universidad Nacional de Colombia
+. Normativa asociada al proceso de presupuesto y austeridad en el gasto público interna y externa.
+. Normativa Contratación Interna (Manuel de convenios y Contratos)
+. Ofimática — Excel Intermedio
+. Manejo de Sistemas de Información Financiera
+10 . Evaluación de Proyectos y Planeación
+11. Plan de Acción de la Universidad Nacional de Colombia
 
  
 
@@ -82,7 +90,9 @@ funcional.
 
  
 
-CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
+ 
+
+(O 00 O UU fs UN FR
 
  
 
@@ -90,56 +100,29 @@ CONOCIMIENTOS BÁSICOS O ESENCIALES PARA EL EJERCICIO DEL EMPLEO
 
  
 
- 
-
-1. Normativa Interna de la Universidad Pregrado y Posgrado
-2. Herramientas Ofimáticas
-3. Estructura Orgánica y Funcionamiento de la Universidad
-4. Técnicas y Habilidades de Redacción y Ortografía
-5. Gestión y Administración de Sistemas Operativos
-6. Gestión Documental Tablas de Retención Documental
-7. Procesos de Mejoramiento continuo
 COMPETENCIAS
 COMUNES NIVEL JERÁRQUICO
-1. Orientación a resultados 1. Experticia técnica
-2. Orientación al usuario y al ciudadano 2. Trabajo en equipo
+
+1. Orientación a resultados 1. Pensamiento analítico
+2. Orientación al usuario y al ciudadano 2. Experticia profesional
 3. Transparencia 3. Organización del trabajo
-4. Compromiso con la Universidad 4. Análisis de información
-5. Rigurosidad
-6. Evaluación del riesgo
+4. Compromiso con la Universidad 4. Argumentación
+
+5. Trabajo en equipo
+
+6. Aprendizaje continuo
 
  
 
  
 
-- . REQUISITOS MÍNIMOS
-
+REQUISITOS MÍNIMOS
 FORMACIÓN ACADÉMICA EXPERIENCIA EQUIVALENCIA
-Título de formación técnica profesional o tecnológica o
-cuatro (4) semestres de formación universitaria,
-debidamente certificados, en los núcleos básicos del
-conocimiento en: Ingeniería de Sistemas Telemáticas y
-afines, Ingeniería Electrónica Telecomunicaciones y afines;
-Ingenieria industrial y afines; administración; economia;
-contaduria pública; sociologia, trabajo social y afines;
-derecho y afines.
-
- 
-
- 
-
-Se aplicarán las equivalencias entre
-estudios y experiencia establecidas en el
-No requiere. artículo 18 de la Resolución de Rectoría
-No. 915 de 2017 y demás normas que la
-modifiquen, sustituyan o deroguen.
-
- 
-
- 
-
- 
-
+Título profesional universitario en los núcleos básicos del Se aplicarán las equivalencias entre
+conocimiento en: Administración, Contaduría Pública, estudios y experiencia establecidas en el
+Economía, Ingeniería Administrativa y Afines., Ingeniería artículo 18 de la Resolución de Rectoría
+Industrial y Afines, Ingeniera de Sistemas Telemática y No. 915 de 2017 y demás normas que la
+Afines. modifiquen, sustituyan o deroguen
 INSCRIPCIONES
 1. Podrán participar todas las personas que cumplan con las condiciones establecidas en los artículos 17 y18 de la Resolución de Rectoría N* 07/2024
 y demás normas que lo modifiquen, sustituyan, adicionen o deroguen.
@@ -164,11 +147,121 @@ aspirantes o a la que repose en su historia laboral en el caso de los servidores
 de Colombia. La fecha límite de actualización de documentación en el portal SARA para los servidores públicos de carrera administrativa especial de
 la Universidad Nacional de Colombia será el día 27 de mayo 2025, día de cierre del proceso de inscripción y carga de documentos Concurso
 ASCENSO.
+
 9. Los aspirantes debe registrar en el formulario de inscripción TODA la información que deseen sea tenida en cuenta en el presente proceso concursal.
-10. Serán causales de exclusión las establecidas en el artículo 25 de la Resolución de Rectoría N* 07/2024.
+
+ 
+
+ 
+
+Doce (12) meses de experiencia
+profesional relacionada.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+--- Página 2 ---
+ 
+
+10. Serán causales de exclusión las establecidas en el artículo 25 de la Resolución de Rectoría N” 07/2024.
+
 11. El aspirante en condición de discapacidad debe manifestarlo en el formulario electrónico de inscripción, con el propósito de adoptar los ajustes
 razonables necesarios para garantizar la aplicación de las pruebas en condiciones de igualdad con los demás aspirantes.
+
 12. Las pruebas se aplicarán en las ciudades de Bogotá, Arauca, Leticia, Manizales, Medellín, Palmira, San Andrés Isla, La Paz y Tumaco.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -188,105 +281,13 @@ CRONOGRAMA ETAPAS DEL PROCESO O FECHA FIN
 Publicación de las convocatorias 29-abr-25 29-abr-25
 Divulgación de las convocatorias 29-abr-25 20-may-25
 Proceso de inscripción y carga de documentos Concurso ASCENSO (Cierre 23:59:59 horas del último día) 21-may-25 27-may-25
-
- 
-
---- Página 2 ---
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Proceso de inscripción y carga de documentos Concurso ABIERTO (Cierre 23:59:59 horas del último día) 16-jun-25 20-jun-25
 Publicación de listado de inscritos 9-jul-25 10-jul-25
 Publicación de listado Preliminar de admitidos y no admitidos 5-ago-25 5-ago-25
 Recepción de reclamaciones por sitio Web 6-ago-25 8-ago-25
 Respuesta a reclamaciones 21-sep-25 21-sep-25
 Publicación de listado definitivo de admitidos, respuesta a reclamaciones y citación a pruebas escritas 21-sep-25 21-sep-25
-Aplicación de pruebas escritas 19-oct-25 19-oct-25
+Aplicación de pruebas escritas 19-oct-25 19-oct25
 Publicación de resultados prueba escrita eliminatoria 16-nov-25 16-nov-25
 Recepción de reclamaciones por sitio Web 18-nov-25 19-nov-25
 Citación acceso a pruebas eliminatorias 26-nov-25 26-nov-25
@@ -332,14 +333,12 @@ duración del periodo de prueba es de cuatro (4) meses tanto para el concurso de
 
 FIRMA:
 
-Firmado
-digitalmente por
-Belizza Janet Ruiz
+Firmado digitalmente
+Be lizza vz Por Belizza Janet Ruiz
 Mendoza
-BELIZZA ] ANET RUIZ MENDOZA
-Vicerrectora de Sede
 
-Be lizza via
+BELIZZA J ANET RUIZ MENDOZA
+Vicerrectora de Sede
 
  
 
