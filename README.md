@@ -1,7 +1,7 @@
 # UNmixconvo
 Búsqueda en la convocatoria:
 
-Concurso de méritos mixto para proveer cargos de carrera administrativa en la Universidad Nacional.
+[Concurso de méritos mixto para proveer cargos de carrera administrativa en la Universidad Nacional](https://concursomixto.unal.edu.co/).
 
 Publicada el 29 de abril de 2025.
 
