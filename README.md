@@ -19,4 +19,4 @@ Para realizar una búsqueda se pueden descargar los archivos del repositorio y e
 
 Aunque inicialmente se ejecutó en una máquina local linux, se modifica para dejar disponible a través de google colab y ejecutar desde allí.
 enlace al cuaderno de python en google colab:
-[cuaderno](https://colab.research.google.com/drive/184kaNwA-B8QasbMttZFhNXZ6gIxJ9S4-?usp=sharing)
+[cuaderno](https://colab.research.google.com/drive/1ViPFvOL6g3-i67UWnNSiqor0E4WHkJzP)
